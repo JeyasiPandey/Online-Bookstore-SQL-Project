@@ -175,6 +175,6 @@ GROUP BY b.book_id, b.title, b.stock;
 
 ## 👨‍💻 Author
 
-**Anand Prakash**
+**Jeyasi Pandey**
 
 This project is part of a **SQL and database portfolio for learning data analysis and database design**.
