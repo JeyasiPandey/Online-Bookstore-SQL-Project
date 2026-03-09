@@ -1,4 +1,4 @@
-# Online Bookstore SQL Project
+# bookstore_database.sql
 
 ## Project Overview
 This project demonstrates the design and analysis of a relational
