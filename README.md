@@ -47,4 +47,4 @@ PostgreSQL
 GitHub
 
 ## Author
-Anand Prakash
+Jeyasi Pandey
